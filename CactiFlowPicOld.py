@@ -1,3 +1,4 @@
+# -*- coding:utf-8 -*-
 import re
 import os
 import time
@@ -194,4 +195,4 @@ draw_one_pic(3016)
 #         print(pic_1)
 #     break
 
-# TODO ∂‡…Ÿ
+# TODO Â§öÂ∞ë
